@@ -1,3 +1,3 @@
 # Collage-Website
 
-It is a collage wesite using only HTML, CSS, and JavaScript
+It is a collage wesite using only HTML, CSS, and JavaScript.
